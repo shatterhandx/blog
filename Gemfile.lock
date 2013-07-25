@@ -61,6 +61,7 @@ GEM
       treetop (~> 1.4.8)
     mime-types (1.23)
     multi_json (1.7.7)
+    mysql2 (0.3.13)
     net-scp (1.1.2)
       net-ssh (>= 2.6.5)
     net-sftp (2.1.2)
@@ -126,6 +127,7 @@ DEPENDENCIES
   capistrano
   coffee-rails (~> 3.2.1)
   jquery-rails
+  mysql2
   rails (= 3.2.8)
   sass-rails (~> 3.2.3)
   sqlite3
